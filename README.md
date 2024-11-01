@@ -92,4 +92,4 @@ Key requirements (see environment.yml):
 
 ## Contact
 
-[Your contact information]
+Devon Artis<Troin.Artis@gmail.com>
