@@ -1,0 +1,19 @@
+name: hate-detection
+channels:
+  - apple
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - tensorflow-deps
+  - opencv
+  - numpy
+  - pandas
+  - tqdm
+  - joblib
+  - ipykernel
+  - pip:
+    - tensorflow-macos
+    - tensorflow-metal
+    - apple tensorflow-deps
+    - scikit-learn
